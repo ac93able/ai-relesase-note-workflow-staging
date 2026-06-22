@@ -32,3 +32,17 @@ Change information → AI extraction → Release note draft → AI review → Im
 5. Update work in only this repository
 6. Raise issues when blocked
 
+## What Success Looks Like
+
+Success means:
+Demonstrated a realistic documentation workflow
+
+- Showed Commands, Skills, and Agents
+- Explained MCP and integrations
+- Used realistic business scenarios
+- Demonstrated measurable workflow improvement
+- Identified human review checkpoints
+
+## Guiding Principle:
+
+We are not building a release note tool. We are demonstrating how AI capabilities can automate a documentation workflow using release notes as the business use case.
