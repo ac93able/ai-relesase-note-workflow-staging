@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "git": {
+      "command": "python",
+      "args": ["-m", "mcp_server_git", "-r", "C:\\Users\\Asus\\Developer\\ai-relesase-note-workflow-staging"]
+    }
+  }
+}
