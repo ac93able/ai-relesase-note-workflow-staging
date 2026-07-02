@@ -1,0 +1,11 @@
+{
+  "name": "release-notes",
+  "version": "1.0.0",
+  "description": "Transforms change items into professional release notes and validates with quality checks",
+  "author": {
+    "name": "Anubhav Chaudhary",
+    "email": "anubhav02011993@gmail.com"
+  },
+  "keywords": ["release-notes", "documentation", "quality-review", "markdown"],
+  "homepage": "https://github.com/ac93able/release-note-skills"
+}

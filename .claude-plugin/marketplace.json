@@ -1,0 +1,19 @@
+{
+  "name": "release-note-skills",
+  "owner": {
+    "name": "Anubhav Chaudhary",
+    "email": "anubhav02011993@gmail.com"
+  },
+  "metadata": {
+    "description": "AI-powered release note generation and quality review — generate professional release notes from git/Jira/Confluence and validate with structured quality checks",
+    "version": "1.0.0",
+    "keywords": ["release-notes", "documentation", "quality-assurance", "technical-writing"]
+  },
+  "plugins": [
+    {
+      "name": "release-notes",
+      "source": "./plugins/release-notes",
+      "description": "Release note writer (Stage 3-4) and reviewer (Stage 5) skills for professional release documentation"
+    }
+  ]
+}
